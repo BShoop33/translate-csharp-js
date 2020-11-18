@@ -21,12 +21,6 @@ function main() {
 
     console.log(message)
 
-
-
-
-
-
-
   }
 
 }
